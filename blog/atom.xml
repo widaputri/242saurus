@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://widaputri.github.io/242saurus/blog</id>
-    <title>OS Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <title>Wida's 242saurus Blog</title>
+    <updated>2024-11-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://widaputri.github.io/242saurus/blog"/>
-    <subtitle>OS Blog</subtitle>
+    <subtitle>Wida's 242saurus Blog</subtitle>
     <icon>https://widaputri.github.io/242saurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://widaputri.github.io/242saurus/blog/POP-QUIZ</id>
+        <link href="https://widaputri.github.io/242saurus/blog/POP-QUIZ"/>
+        <updated>2024-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is our POP QUIZ posting!]]></summary>
+        <content type="html"><![CDATA[<p>This is our POP QUIZ posting!</p>
+<p>-- Wida and Grace</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.y</p>]]></content>
+        <author>
+            <name>Wida Putri Kinasih</name>
+            <uri>https://github.com/widaputri</uri>
+        </author>
+        <author>
+            <name>Grace Karina</name>
+            <uri>https://github.com/gracekarinn</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://widaputri.github.io/242saurus/blog/welcome</id>
