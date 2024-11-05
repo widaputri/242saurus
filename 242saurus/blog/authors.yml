@@ -21,3 +21,20 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+widaputri:
+  name: Wida Putri Kinasih
+  title: CS Student @ Universitas Indonesia
+  url: https://github.com/widaputri
+  image_url: https://github.com/widaputri.png
+  socials:
+    github: widaputri
+
+
+gracekarinn:
+  name: Grace Karina
+  title: CS Student @ Universitas Indonesia
+  url: https://github.com/gracekarinn
+  image_url: https://github.com/gracekarinn.png
+  socials:
+    github: gracekarinn
